@@ -12,7 +12,7 @@
 |주차|주제|활동내용|
 |---|---|---|
 |1주차|Level 0. 1번 ~ 7번|1주차 활동|
-|2주차|Level 0. 8번 ~ 14번|2주차 활동|
+|2주차|Level 0. 8번 ~ 14번|[2주차 활동](https://github.com/JK-s-children/study/blob/main/Level%200/%5BWeek2%5D%208%EB%B2%88%20~%2014%EB%B2%88.md)|
 |3주차|Level 0. 15번 ~ 22번|3주차 활동|
 
 -----
