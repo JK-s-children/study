@@ -20,3 +20,12 @@
 ## Algorithm
 - 1일 1문제 이상
 - 문제 링크 + 푼 화면 인증하기
+
+|난이도|문제|링크|
+|-|-|-|
+|레벨3|자물쇠와 열쇠|[프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|
+|실버5|집합|[백준](https://www.acmicpc.net/problem/11723)|
+|실버3|1, 2, 3 더하기|[백준](https://www.acmicpc.net/problem/9095)|
+|실버3|피보나치 함수|[백준](https://www.acmicpc.net/problem/1003)|
+|실버4|ATM|[백준](https://www.acmicpc.net/problem/11399)|
+|레벨2|두 큐 합 같게 만들기|[프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/118667)|
