@@ -14,7 +14,7 @@
 |1주차|Level 0. 1번 ~ 7번|[1주차 활동](https://github.com/JK-s-children/study/blob/main/Level%200/%5BWeek1%5D%201%EB%B2%88%20~%207%EB%B2%88.md)|
 |2주차|Level 0. 8번 ~ 14번|[2주차 활동](https://github.com/JK-s-children/study/blob/main/Level%200/%5BWeek2%5D%208%EB%B2%88%20~%2014%EB%B2%88.md)|
 |3주차|Level 0. 15번 ~ 22번|[3주차 활동](https://github.com/JK-s-children/study/blob/main/Level%200/%5BWeek3%5D%2015%EB%B2%88%20~%2022%EB%B2%88.md)|
-|4주차|Level 0. 23번 ~ 35번|[4주차 활동]()
+|4주차|Level 0. 23번 ~ 35번|[4주차 활동](https://github.com/JK-s-children/study/blob/main/Level%200/%5BWeek4%5D%2023%EB%B2%88%20~%2035%EB%B2%88.md)
 -----
 
 ## Algorithm
